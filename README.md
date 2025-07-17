@@ -31,7 +31,7 @@ SR.SkillOverlay is a Valheim addon that displays an on-screen overlay showing al
 4. **Configure hotkeys (optional)**
    - After the first launch, a config file will be generated at:
      ```
-     <Valheim Folder>/BepInEx/config/SR.SkillOverlay.cf
+     <Valheim Folder>/BepInEx/config/SR.SkillOverlay.cfg
      ```
    You can modify the following settings:
 
